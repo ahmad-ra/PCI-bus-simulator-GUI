@@ -19,7 +19,19 @@ for hardware : used  xilinx technologies , fuse [a verilog compiler] ,
 -for launching you have to edit all the file destinations after cloning the repo to match your computer 
 ,including any links that contain localhost , image places , etc
 
--compile your own verilog modules or use the provided ones
+-compile your own verilog modules or use the provided ones 
+
+-npm 
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
 
 
 # modifications 
