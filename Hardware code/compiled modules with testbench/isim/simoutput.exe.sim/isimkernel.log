@@ -1,0 +1,28 @@
+Command line:
+   simoutput.exe
+     -simmode  tcl
+     -simrunnum  0
+     -socket  50031
+
+Thu Feb 07 17:43:15 2019
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 822.624 Meg
+
+ Total Signals          : 85
+ Total Nets             : 379
+ Total Signal Drivers   : 57
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 72
+ Total Traceable Variables  : 237
+ Total Scalar Nets and Variables : 3009
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 822.624 Meg
+
+Thu Feb 07 17:43:31 2019
+

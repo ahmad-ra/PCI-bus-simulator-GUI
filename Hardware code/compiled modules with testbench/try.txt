@@ -1,0 +1,13 @@
+1,2,1,2
+2,1,0,3
+1,2,3,4
+
+// this is the file for input commands to the verilog modules , formatted as follow :
+
+//each line is a single transaction , the transaction is formatted as:
+
+//Id of master , Id of slave , read of write (0 or 1) , number of words 
+
+//the last line is 1,2,3,4 which tells the module that the scenario commands ended 
+
+//it should be renamed to input.txt . and then recompile the verilog modules with the new names

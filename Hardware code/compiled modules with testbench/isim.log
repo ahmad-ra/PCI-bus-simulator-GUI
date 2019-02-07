@@ -1,0 +1,10 @@
+ISim log file
+Running: E:\xampp\htdocs\talta7asebat\repoo\Hardware code\compiled modules with testbench\simoutput.exe 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+00000000000000000000000000000010
+# quit
