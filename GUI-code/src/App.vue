@@ -381,7 +381,7 @@ mounted () {
             this.linetexts =[] ;// this.lines=[] ;
              this.CBEtexts=[] ; 
           
-        axios.get('http://localhost/tb3talta/New_folder/phpverilog.php' , {  // stored it in my htdocs
+        axios.get('http://localhost/phpverilog.php' , {  // stored it in my htdocs
           params: {
                   
               },
@@ -553,7 +553,7 @@ for ( i=0 ; i<this.transactions.length ; i++)
 
 
 
-axios.post('http://localhost/tb3talta/New_folder/toverilog.php', {
+axios.post('http://localhost/toverilog.php', {
     data: send,
     
   })
@@ -587,7 +587,7 @@ computed : {}
 ,
   created() {
     const image = new window.Image();
-    image.src = 'http://localhost/tb3talta/devicre.jpg';
+    image.src = 'http://localhost/devicre.jpg';
 
     image.onload = () => {
       // set image only when it is loaded
