@@ -4,7 +4,7 @@ GUI that send orders / receives response from actual compiled verilog PCI module
 # Demo preview
 https://drive.google.com/file/d/14B48F__fDqKnZqVz4a4k8jAe31q1K-zO/view?usp=sharing
 
-
+# intro
 PCI bus (peripheral component interconnect ) is a communication protocal used inside computers for various devices to communicate .
 this project is a GUI and implementation of PCI modules .
 
