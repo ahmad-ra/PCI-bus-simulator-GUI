@@ -28,6 +28,9 @@ then in the file phpverilog.php let it get contents of your file instead of the 
 
 
 
-# future features
--there are lots of modifications and features to be added , contributions are more than welcome .
+# Pull requests
+-there are lots of modifications and features to be added , contributions are more than welcome , all pull requests will be reviewed and   either accepted or further discussed 
+
+# license 
+GNU GPLv3
 
