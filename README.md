@@ -1,6 +1,8 @@
 # PCI-bus-simulator-GUI
 GUI that send orders / receives response from actual compiled verilog PCI modules , and draws the waveform manually on the screen  
 
+<iframe width="854" height="480" src="try" frameborder="0" allowfullscreen></iframe>
+
 PCI bus (peripheral component interconnect ) is a communication protocal used inside computers for various devices to communicate .
 this project is a GUI and implementation of PCI modules .
 
